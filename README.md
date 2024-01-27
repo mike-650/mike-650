@@ -6,7 +6,7 @@
 <img align="right" src="https://media.giphy.com/media/9TYOxSLqBIrK0/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://pinstory.onrender.com/">Pinstory</a>.</li>
+<li>🔭 I’m currently working on <a href="https://github.com/mike-650/GhibliVerse">GhibliVerse</a>.</li>
 <li>🧐 Learning about <strong>Python</strong>, <strong>Django</strong>, and a bit of <strong>Vue</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
 <li>🎛 I love everything music and creating dj mixes with my <a href="https://www.amazon.com/Pioneer-Dj-DDJ-400-DJ-Controller/dp/B07F1N77LM">Pioneer DDJ-400</a>.</li>
