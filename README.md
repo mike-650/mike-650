@@ -34,5 +34,5 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=mike-650&show_icons=true&count_private=true" alt="mike-650" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mike-650&show_icons=true&count_private=true" alt="mike-650" /> -->
 
